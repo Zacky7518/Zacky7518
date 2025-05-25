@@ -1,8 +1,11 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+Zacky+Sambora;Backend+Developer;Code+is+My+Weapon&center=true&size=36"></h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
-</p>
+<div align="center"> <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" height="150" alt="GIF 1" />
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" height="150" alt="GIF 2" />
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" height="150" alt="GIF 3" />
+  </div>
+</div>
 
 ---
 
