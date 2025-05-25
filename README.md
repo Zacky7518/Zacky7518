@@ -1,7 +1,7 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+Zacky+Sambora;Backend+Developer;Code+is+My+Weapon&center=true&size=30"></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+Zacky+Sambora;Backend+Developer;Code+is+My+Weapon&center=true&size=36"></h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
 
 ---
