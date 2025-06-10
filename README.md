@@ -47,9 +47,7 @@
 </p>
 
 ---
-<h3 align="center">BAWOK GANKK</h3>
 
----
 
 
 
